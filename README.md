@@ -22,8 +22,3 @@ You can follow the guide explained here to setup a working environment.
 
 #### Original project repo
 * https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project
-
-## RELEVANT FILES
-* A list of ..
-* .. python files
-* ...
